@@ -1,9 +1,9 @@
 # Bot-Discord-Projets-Git
 A discord bot for git projects
 
-# Requirements
+# Requirements
 - Python 3
 - Discord.py
 - Asyncio
 
-# Config the bot in the main.py and the git.py
+#### Config the bot in the main.py and the git.py
