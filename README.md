@@ -2,7 +2,7 @@
 A discord bot for git projects
 
 ## Requirements
-- Python 3
+- Python 3+
 - Discord.py
 - Asyncio
 
